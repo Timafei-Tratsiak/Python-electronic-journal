@@ -37,3 +37,8 @@ logs/
 # Environment variables
 .env
 .env.local
+
+# PyInstaller
+*.spec
+build/
+dist/
