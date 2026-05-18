@@ -1,7 +1,9 @@
 # Academic Control System / Electronic Journal
 
-**Python 3.8+ | Tkinter | SQLite | PyInstaller**
-
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green.svg)
+![PyInstaller](https://img.shields.io/badge/Build-PyInstaller-red.svg)
 ## Overview
 
 Academic Control System is a desktop application for managing student academic performance. Built for Belarusian National Technical University (BNTU) as a course project. The system provides role-based access (teacher/student), scheduling, grading, attendance tracking, and real-time statistics — all stored locally in SQLite.
